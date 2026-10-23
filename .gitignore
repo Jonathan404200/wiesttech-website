@@ -1,0 +1,12 @@
+# Compiled/static site
+dist/
+
+# Env / secrets
+.env
+.aws/
+secrets/
+
+# OS
+.DS_Store
+*.swp
+*.swo
